@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cff729e71a2f7d69c4579b8e",
+  "owner": "rveecqha9",
+  "repo": "page-708fd129db068e63d20946a7",
+  "title": "猫咪火箭云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "708fd129db068e63d20946a7",
+      "a": "猫咪火箭云",
+      "b": "稳定全球clash加速器",
+      "entity": "猫咪火箭云",
+      "brand": "猫咪火箭云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "027054444c76fea378d6c0e7372433c1255f97295bfae98d936af347cf975230",
+      "content": {
+        "primary_entity": "猫咪火箭云",
+        "keyword1": "猫咪火箭云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，在常用设备导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "挑选适合的套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付与年付均可选，支持 Windows、macOS、Android、iOS 等平台客户端，按设备数量与流量需求选择即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度挑选套餐。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备在线，适合个人轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备在线，含 IPLC 专线游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备在线，适合小团队协作。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路类型差异",
+          "AI_FEATURE_TITLE_3": "团队规模选择",
+          "AI_GUIDE_INTRO": "选定套餐后，按设备系统获取订阅链接并完成导入。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "猫咪火箭云提供按月或按年订阅的全球加速服务，套餐覆盖不同流量与设备数量需求，适合个人与小团队选择使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐按需选",
+          "AI_HIGHLIGHT_2": "月付年付灵活计费",
+          "AI_HIGHLIGHT_3": "多平台客户端支持",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付更省，按设备数与流量对比即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数，从基础版、旗舰版、团队版中挑选。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在支持范围内，并核对套餐允许的在线设备数量。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，依所选客户端文档导入配置并连接使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "猫咪火箭云套餐",
+          "AI_FAQ_ANSWER_1": "基础版适合一两个人日常浏览和轻度看剧；旗舰版多了 IPLC 专线和流媒体全解锁，适合游戏玩家；团队版流量和设备上限高，适合多人或小型团队。",
+          "AI_FAQ_ANSWER_2": "按年付比月付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于省下两个月费用。可以先月付体验，再决定是否转年付。",
+          "AI_FAQ_ANSWER_3": "打开客户端后找到订阅或配置管理入口，把获取到的订阅链接粘贴进去，保存后更新节点列表即可选择线路连接。不同客户端菜单位置略有差异。",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台，旗舰版 5 台，团队版 20 台。统计的是同时在线设备数，手机、电脑和路由器都计入其中，超出后新设备需要等旧设备断开。",
+          "AI_FAQ_ANSWER_5": "普通使用场景建议选择离当前地区较近的节点；如果玩游戏或对延迟敏感，可优先尝试旗舰版的 IPLC 专线节点，实际速度受本地网络影响。",
+          "AI_FAQ_INTRO": "订阅导入、套餐对比与设备限制。",
+          "AI_FAQ_QUESTION_1": "三个套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "按年付划算吗？",
+          "AI_FAQ_QUESTION_3": "订阅怎么导入客户端？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数怎么算？",
+          "AI_FAQ_QUESTION_5": "节点线路如何挑选？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--h5q84a86f8y3at6bn26f.com",
+    "host": "xn--h5q84a86f8y3at6bn26f.com"
+  },
+  "file_hashes": {
+    "index.html": "ead147d4a82012e32b4c3a85addb5e49c02312987d243be26789165d76c132d1",
+    "sitemap.xml": "c1bab99842b02f2f48eb54995579f8780d5ba67a2dc2f1c6393d110c7051a1d6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "13276eabe959ac6456b59f3800e0014c717e623892c8b87ea1f4ed04d165dc17",
+    "robots.txt": "25f195efe81447685e570b2ccaaa235246fa523f99b4e86d71e031219be7cc91",
+    "7c809657309b964ab73372bb53e65caf.txt": "0df2cdebf223dfe08932aedecd347755eb2755fee2ba8158b198f8c9faa193d0"
+  },
+  "revision": "5c08f701882915f66140c05025885cdae8d87cf2a5481aa660656391208d50cd"
+}
